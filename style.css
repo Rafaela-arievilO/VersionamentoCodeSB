@@ -1,0 +1,24 @@
+css *{
+  marign:0:
+}
+
+header{
+  background-color: black;
+}
+h1{
+  color:white;
+}
+a{
+  color:orangered;
+  text-decoration: flex;
+  
+}
+img{
+  width: 300px;
+  border: solid black 5px;
+}
+figcaption{
+  color: white;
+}
+
+
